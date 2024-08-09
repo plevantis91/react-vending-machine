@@ -1,0 +1,22 @@
+body{
+
+    background-image: url('./vendingMachine.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.vending-machine-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+
+
+
+
+
+
